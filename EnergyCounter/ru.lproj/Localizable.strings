@@ -1,14 +1,27 @@
-"friends" = "Friends";
-"home" = "Home";
-"menu" = "Menu";
-"settings" = "Settings";
-"theme" = "Theme";
-"language" = "Language";
-"add" = "Add";
-"today" = "Today";
-"yesterday" = "Yesterday";
-"tomorrow" = "Tomorrow";
-"no_drinks" = "No drinks yet";
-"delete" = "Delete";
-"your_streak" = "Your streak";
-"days" = "days";
+"friends" = "Друзья";
+"home" = "Главная";
+"settings" = "Настройки";
+
+"theme" = "Тема";
+"language" = "Язык";
+
+"add" = "Добавить";
+"today" = "Сегодня";
+"yesterday" = "Вчера";
+"tomorrow" = "Завтра";
+
+"your_streak" = "Ваш стрик";
+"days" = "дн.";
+
+"caffeine_for_day" = "Выпито за %@: %d мг";
+
+"drink_name" = "Название напитка";
+"volume_l" = "Объём (л)";
+
+"nothing_yet" = "Пока ничего нет";
+"coming_soon" = "Скоро будет";
+
+"mg_per_100ml" = "мг/100мл";
+
+"day_before_yesterday" = "Позавчера";
+"day_after_tomorrow" = "Послезавтра";

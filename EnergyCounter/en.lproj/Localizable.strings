@@ -1,0 +1,27 @@
+"friends" = "Friends";
+"home" = "Home";
+"settings" = "Settings";
+
+"theme" = "Theme";
+"language" = "Language";
+
+"add" = "Add";
+"today" = "Today";
+"yesterday" = "Yesterday";
+"tomorrow" = "Tomorrow";
+
+"your_streak" = "Your streak";
+"days" = "days";
+
+"caffeine_for_day" = "Caffeine for %@: %d mg";
+
+"drink_name" = "Drink name";
+"volume_l" = "Volume (L)";
+
+"nothing_yet" = "Nothing yet";
+"coming_soon" = "Coming soon";
+
+"mg_per_100ml" = "mg/100ml";
+
+"day_before_yesterday" = "Day before yesterday";
+"day_after_tomorrow" = "Day after tomorrow";

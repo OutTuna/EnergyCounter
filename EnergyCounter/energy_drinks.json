@@ -1,9 +1,9 @@
-    [
-      { "name": "Red Bull", "caffeinePer100ml": 32 },
-      { "name": "Monster", "caffeinePer100ml": 32 },
-      { "name": "Burn", "caffeinePer100ml": 31 }
-      { "name": "Non Stop Boost", "caffinePer100ml": 30},
-      { "name": "Non Stop Original", "caffinePer100ml": 30},
-      { "name": "Non Stop Jungle", "caffinePer100ml": 30},
-      { "name": "Non Stop Stalker(Green)", "caffinePer100ml": 30}
-    ]
+[
+  { "id": "1", "name": "Red Bull", "caffeinePer100ml": 32 },
+  { "id": "2", "name": "Monster", "caffeinePer100ml": 32 },
+  { "id": "3", "name": "Burn", "caffeinePer100ml": 31 },
+  { "id": "4", "name": "Non Stop Boost", "caffeinePer100ml": 30 },
+  { "id": "5", "name": "Non Stop Original", "caffeinePer100ml": 30 },
+  { "id": "6", "name": "Non Stop Jungle", "caffeinePer100ml": 30 },
+  { "id": "7", "name": "Non Stop Stalker(Green)", "caffeinePer100ml": 30 }
+]
